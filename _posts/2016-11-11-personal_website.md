@@ -85,7 +85,7 @@ This is my blog page.
 ```
 
 Be sure the `permalink:` matches the `url` in `navigation.yml` file.
-Generate the website again, and look what's new:   
+Generate the website again, and look what's new:-  
 ![blogs](/pics/website_tut/blog.png)
 
 That's basically how a new webpage tab is added.
